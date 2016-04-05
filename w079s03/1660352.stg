@@ -1,0 +1,3 @@
+OBJECT_SHARED Models/Airport/ils.xml -78.981944 -2.885 2518.27 127.8
+OBJECT_SHARED Models/Communications/vordme_1.xml -78.98 -2.885 2513.12 180
+OBJECT_SHARED Models/Airport/localizer.xml -78.993056 -2.896111 2520.9 322.25
